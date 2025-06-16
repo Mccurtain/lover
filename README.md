@@ -43,3 +43,6 @@
 </body>
 </html>
 ```
+## Star History
+
+[![Star History Chart](https://api.star-history.com/svg?repos=solitude-mix/lover&type=Date)](https://www.star-history.com/#solitude-mix/lover&Date)
